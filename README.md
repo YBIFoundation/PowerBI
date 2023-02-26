@@ -32,6 +32,11 @@ Financial performance analysis for business intelligence is based on optimizing 
 
 [Quarterly Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Quaterly.xlsx)
 
+4. **Pharma Drug Sales**
+
+Pharma Drug sales dataset consist of transaction collected for a period 2014-2019 on hourly frequency, drug type and quantity. Group of drugs in dataset constructed from 57 drugs for various medical uses.
+
+[Pharma Drug Sales](https://www.kaggle.com/datasets/ybifoundation/pharma-drug-sales)
 
 
 
