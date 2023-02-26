@@ -47,6 +47,13 @@ Anomaly detection for credit card transactions of state employees. Import data a
 
 Source: Delaware Open Data
 
+### 6. **Road Accidents**
+
+Road accidents are major cause of property and life losses. The dataset gives opportunity to deep dive into the pattern of accidents and create dashboard visualization for meaningful insight.
+
+[Vehicle Accidents](https://www.kaggle.com/datasets/ybifoundation/vehicle-accident)
+
+Source: Delaware Open Data
 
 ---
 
