@@ -4,13 +4,13 @@ Power BI is an interactive data visualization software product developed by Micr
 
 ## **Reference Practice Projects**
 
-1. **Ecommerce Dashboard**
+### 1. **Ecommerce Dashboard**
 
 The Ecommerce transaction analysis is one of great way to learn data visualization with Power BI or Tableau. Your visualization must reveals customer sales, product sales, regional sales, monthly sales, time of the day sales to gain valuable insights and business planning. You may use Combo Charts, Cards, Bar Charts, Tables, or Line Charts; for the customer segmentation page, you could employ Column Charts, Bubble Charts, Point Maps, Tables, etc.
 
 [Ecommerce Dashboard](https://www.kaggle.com/datasets/ybifoundation/ecommerce-visualization)
 
-2. **Online Food Business**
+### 2. **Online Food Business**
 Keeping a high customer engagement is key for business growth, specially when you are into online food business. Data analyst works both with business and technical stakeholders to provide insights for potential business growth.
 
 - Perform robust exploratory analysis with actionable business insights and data driven proposals to add value to the company customer engagement and business growth.
@@ -18,7 +18,7 @@ Keeping a high customer engagement is key for business growth, specially when yo
 
 [Food App Business](https://www.kaggle.com/datasets/ybifoundation/food-app-business)
 
-3. **Financial Performance Analysis**
+### 3. **Financial Performance Analysis**
 
 Financial performance analysis for business intelligence is based on optimizing financial analysis for a firm that provides accounting services to clients who seek timely delivery of critical financial reports. Use one or combination of below
 
@@ -32,7 +32,7 @@ Financial performance analysis for business intelligence is based on optimizing 
 
 [Quarterly Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Quaterly.xlsx)
 
-4. **Pharma Drug Sales**
+### 4. **Pharma Drug Sales**
 
 Pharma Drug sales dataset consist of transaction collected for a period 2014-2019 on hourly frequency, drug type and quantity. Group of drugs in dataset constructed from 57 drugs for various medical uses.
 
