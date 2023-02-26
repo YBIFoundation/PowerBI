@@ -6,5 +6,8 @@ Power BI is an interactive data visualization software product developed by Micr
 
 1. [Ecommerce Dashboard](https://www.kaggle.com/datasets/ybifoundation/ecommerce-visualization)
 2. [Food App Business](https://www.kaggle.com/datasets/ybifoundation/food-app-business)
+3. [Annual Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Annual.xlsx)
+4. [Quarterly Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Quaterly.xlsx)
+
 
 [Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)
