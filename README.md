@@ -39,6 +39,16 @@ Pharma Drug sales dataset consist of transaction collected for a period 2014-201
 [Pharma Drug Sales](https://www.kaggle.com/datasets/ybifoundation/pharma-drug-sales)
 
 
+### 5. **Anomaly Detection in Credit Card Transactions**
+
+Anomaly detection for credit card transactions of state employees. Import data and train model for anomaly detection in Power BI desktop or Notebook. To label outliers in Power BI, you'll need to run a Python script in the Power Query Editor and use the get_outliers() method. Create dashboard to visualize with the help of Line Charts, Bubble Charts, TreeMaps, etc.
+
+[Credit Card Transaction](https://www.kaggle.com/datasets/ybifoundation/credit-card-transaction)
+
+Source: Delaware Open Data
+
+
+---
 
 
 [Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)
