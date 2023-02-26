@@ -4,10 +4,36 @@ Power BI is an interactive data visualization software product developed by Micr
 
 ## **Reference Practice Projects**
 
-1. [Ecommerce Dashboard](https://www.kaggle.com/datasets/ybifoundation/ecommerce-visualization)
-2. [Food App Business](https://www.kaggle.com/datasets/ybifoundation/food-app-business)
-3. [Annual Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Annual.xlsx)
-4. [Quarterly Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Quaterly.xlsx)
+1. **Ecommerce Dashboard**
+
+The Ecommerce transaction analysis is one of great way to learn data visualization with Power BI or Tableau. Your visualization must reveals customer sales, product sales, regional sales, monthly sales, time of the day sales to gain valuable insights and business planning. You may use Combo Charts, Cards, Bar Charts, Tables, or Line Charts; for the customer segmentation page, you could employ Column Charts, Bubble Charts, Point Maps, Tables, etc.
+
+[Ecommerce Dashboard](https://www.kaggle.com/datasets/ybifoundation/ecommerce-visualization)
+
+2. **Online Food Business**
+Keeping a high customer engagement is key for business growth, specially when you are into online food business. Data analyst works both with business and technical stakeholders to provide insights for potential business growth.
+
+- Perform robust exploratory analysis with actionable business insights and data driven proposals to add value to the company customer engagement and business growth.
+- Perform statistical analysis beyond mean, variation etc. and use data analytics techniques like clustering, predictive models etc.
+
+[Food App Business](https://www.kaggle.com/datasets/ybifoundation/food-app-business)
+
+3. **Financial Performance Analysis**
+
+Financial performance analysis for business intelligence is based on optimizing financial analysis for a firm that provides accounting services to clients who seek timely delivery of critical financial reports. Use one or combination of below
+
+- for the summary/overview page, you can use Funnel Charts, Combo Charts (Column Charts, Line Charts, Waterfall Charts); 
+
+-for the income statement page, you can use Cards, Funnel Charts, and Combo Charts (Line Charts and Column Charts); and
+
+- for the balance sheet page, you can use Cards and Tables.
+
+[Annual Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Annual.xlsx)
+
+[Quarterly Financial Statement Analysis of Companies](https://github.com/YBIFoundation/PowerBI/blob/main/FinancialStatementAnalysis-Quaterly.xlsx)
+
+
+
 
 
 [Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)
